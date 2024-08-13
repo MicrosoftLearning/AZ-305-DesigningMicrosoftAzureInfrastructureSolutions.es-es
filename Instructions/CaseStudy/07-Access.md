@@ -9,11 +9,11 @@ casestudy:
 
 ## Requisitos
 
-A Tailwind Traders le está yendo muy bien y va a aumentar el personal. Ha adquirido un minorista en línea en el nicho de la ropa deportiva. La empresa también ha localizado a un socio para externalizar el contenido de marketing. Tailwind Traders usa Azure Active Directory para las cuentas de usuarios y grupos. Estas son dos iniciativas específicas en las que el departamento de TI querría que echaras una mano. 
+A Tailwind Traders le está yendo muy bien y va a aumentar el personal. Ha adquirido un minorista en línea en el nicho de la ropa deportiva. La empresa también ha localizado a un socio para externalizar el contenido de marketing. Tailwind Traders usa Entra ID para cuentas de usuario y grupos. Estas son dos iniciativas específicas en las que el departamento de TI querría que echaras una mano. 
 
 **Cuentas de usuario nuevas**
 
-  * La adquisición de minoristas en línea agregará 75 empleados a Tailwind Traders. Todos los nuevos usuarios tienen cuentas locales de Azure Directory Domain Services en el dominio existente del minorista.
+  * La adquisición de minoristas en línea agregará 75 empleados a Tailwind Traders. Todos los nuevos usuarios tienen cuentas locales en el dominio existente del minorista.
 
   * El nuevo asociado de marketing tendrá inicialmente 15 empleados que necesitarán acceso corporativo. Estos empleados ya tienen identidades de Microsoft Entra en el inquilino de Microsoft Entra del asociado.  
 
